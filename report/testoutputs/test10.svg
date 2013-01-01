@@ -1,0 +1,841 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg x="10px" y="10px" height="380px" width="660px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<rect x="200px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="200px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="190px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="190px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="180px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="180px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="170px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="170px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="160px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="160px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="150px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="150px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="150px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="150px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="150px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="150px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="140px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="140px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="140px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="140px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="140px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="130px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="130px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="130px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="130px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="120px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="120px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="120px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="120px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="120px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="110px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="110px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="110px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="110px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="110px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="110px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="100px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="100px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="100px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="100px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="100px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="100px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="90px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="90px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="90px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="90px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="90px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="80px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="80px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="80px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="80px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="80px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="70px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="70px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="70px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="70px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="70px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="60px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="60px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="60px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="60px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="60px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="60px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="50px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="50px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="40px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="40px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="30px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="30px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="20px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="20px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="10px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="10px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="black"/>
+<rect x="10px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="10px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="170px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="160px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="150px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="140px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="130px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="120px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="110px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="100px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="90px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="80px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="70px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="60px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="50px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="40px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="30px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="20px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="10px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<rect x="0px" y="0px" width="10px"
+       height="10px" stroke="blue" fill="white"/>
+<polyline stroke="red" points="200,290 200,280"/>
+    <polyline stroke="red" points="200,280 199,282 201,282 200,280"/><polyline stroke="red" points="200,280 200,270"/>
+    <polyline stroke="red" points="200,270 199,272 201,272 200,270"/><polyline stroke="red" points="200,270 200,260"/>
+    <polyline stroke="red" points="200,260 199,262 201,262 200,260"/><polyline stroke="red" points="200,260 200,250"/>
+    <polyline stroke="red" points="200,250 199,252 201,252 200,250"/><polyline stroke="red" points="200,250 200,240"/>
+    <polyline stroke="red" points="200,240 199,242 201,242 200,240"/><polyline stroke="red" points="200,240 200,230"/>
+    <polyline stroke="red" points="200,230 199,232 201,232 200,230"/><polyline stroke="red" points="200,230 200,220"/>
+    <polyline stroke="red" points="200,220 199,222 201,222 200,220"/><polyline stroke="red" points="200,220 190,220"/>
+    <polyline stroke="red" points="190,220 192,221 192,219 190,220"/><polyline stroke="red" points="190,300 190,290"/>
+    <polyline stroke="red" points="190,290 189,292 191,292 190,290"/><polyline stroke="red" points="190,290 200,290"/>
+    <polyline stroke="red" points="200,290 198,291 198,289 200,290"/><polyline stroke="red" points="190,220 190,210"/>
+    <polyline stroke="red" points="190,210 189,212 191,212 190,210"/><polyline stroke="red" points="190,210 180,210"/>
+    <polyline stroke="red" points="180,210 182,211 182,209 180,210"/><polyline stroke="red" points="180,310 180,300"/>
+    <polyline stroke="red" points="180,300 179,302 181,302 180,300"/><polyline stroke="red" points="180,300 190,300"/>
+    <polyline stroke="red" points="190,300 188,301 188,299 190,300"/><polyline stroke="red" points="180,210 180,200"/>
+    <polyline stroke="red" points="180,200 179,202 181,202 180,200"/><polyline stroke="red" points="180,200 170,200"/>
+    <polyline stroke="red" points="170,200 172,201 172,199 170,200"/><polyline stroke="red" points="170,320 170,310"/>
+    <polyline stroke="red" points="170,310 169,312 171,312 170,310"/><polyline stroke="red" points="170,310 180,310"/>
+    <polyline stroke="red" points="180,310 178,311 178,309 180,310"/><polyline stroke="red" points="170,200 160,200"/>
+    <polyline stroke="red" points="160,200 162,201 162,199 160,200"/><polyline stroke="red" points="160,330 160,320"/>
+    <polyline stroke="red" points="160,320 159,322 161,322 160,320"/><polyline stroke="red" points="160,320 170,320"/>
+    <polyline stroke="red" points="170,320 168,321 168,319 170,320"/><polyline stroke="red" points="160,200 150,200"/>
+    <polyline stroke="red" points="150,200 152,201 152,199 150,200"/><polyline stroke="red" points="150,340 150,330"/>
+    <polyline stroke="red" points="150,330 149,332 151,332 150,330"/><polyline stroke="red" points="150,330 160,330"/>
+    <polyline stroke="red" points="160,330 158,331 158,329 160,330"/><polyline stroke="red" points="150,200 140,200"/>
+    <polyline stroke="red" points="140,200 142,201 142,199 140,200"/><polyline stroke="red" points="140,350 140,340"/>
+    <polyline stroke="red" points="140,340 139,342 141,342 140,340"/><polyline stroke="red" points="140,340 150,340"/>
+    <polyline stroke="red" points="150,340 148,341 148,339 150,340"/><polyline stroke="red" points="140,200 130,200"/>
+    <polyline stroke="red" points="130,200 132,201 132,199 130,200"/><polyline stroke="red" points="130,350 140,350"/>
+    <polyline stroke="red" points="140,350 138,351 138,349 140,350"/><polyline stroke="red" points="130,210 120,210"/>
+    <polyline stroke="red" points="120,210 122,211 122,209 120,210"/><polyline stroke="red" points="130,200 130,210"/>
+    <polyline stroke="red" points="130,210 129,208 131,208 130,210"/><polyline stroke="red" points="120,360 120,350"/>
+    <polyline stroke="red" points="120,350 119,352 121,352 120,350"/><polyline stroke="red" points="120,350 130,350"/>
+    <polyline stroke="red" points="130,350 128,351 128,349 130,350"/><polyline stroke="red" points="120,230 110,230"/>
+    <polyline stroke="red" points="110,230 112,231 112,229 110,230"/><polyline stroke="red" points="120,220 120,230"/>
+    <polyline stroke="red" points="120,230 119,228 121,228 120,230"/><polyline stroke="red" points="120,210 120,220"/>
+    <polyline stroke="red" points="120,220 119,218 121,218 120,220"/><polyline stroke="red" points="110,360 120,360"/>
+    <polyline stroke="red" points="120,360 118,361 118,359 120,360"/><polyline stroke="red" points="110,230 100,230"/>
+    <polyline stroke="red" points="100,230 102,231 102,229 100,230"/><polyline stroke="red" points="100,360 110,360"/>
+    <polyline stroke="red" points="110,360 108,361 108,359 110,360"/><polyline stroke="red" points="100,230 100,220"/>
+    <polyline stroke="red" points="100,220 99,222 101,222 100,220"/><polyline stroke="red" points="100,220 90,220"/>
+    <polyline stroke="red" points="90,220 92,221 92,219 90,220"/><polyline stroke="red" points="90,360 100,360"/>
+    <polyline stroke="red" points="100,360 98,361 98,359 100,360"/><polyline stroke="red" points="90,350 90,360"/>
+    <polyline stroke="red" points="90,360 89,358 91,358 90,360"/><polyline stroke="red" points="90,220 90,210"/>
+    <polyline stroke="red" points="90,210 89,212 91,212 90,210"/><polyline stroke="red" points="90,210 80,210"/>
+    <polyline stroke="red" points="80,210 82,211 82,209 80,210"/><polyline stroke="red" points="80,350 90,350"/>
+    <polyline stroke="red" points="90,350 88,351 88,349 90,350"/><polyline stroke="red" points="80,340 80,350"/>
+    <polyline stroke="red" points="80,350 79,348 81,348 80,350"/><polyline stroke="red" points="80,210 80,200"/>
+    <polyline stroke="red" points="80,200 79,202 81,202 80,200"/><polyline stroke="red" points="80,200 70,200"/>
+    <polyline stroke="red" points="70,200 72,201 72,199 70,200"/><polyline stroke="red" points="70,340 80,340"/>
+    <polyline stroke="red" points="80,340 78,341 78,339 80,340"/><polyline stroke="red" points="70,330 70,340"/>
+    <polyline stroke="red" points="70,340 69,338 71,338 70,340"/><polyline stroke="red" points="70,200 60,200"/>
+    <polyline stroke="red" points="60,200 62,201 62,199 60,200"/><polyline stroke="red" points="60,330 70,330"/>
+    <polyline stroke="red" points="70,330 68,331 68,329 70,330"/><polyline stroke="red" points="60,320 60,330"/>
+    <polyline stroke="red" points="60,330 59,328 61,328 60,330"/><polyline stroke="red" points="60,200 50,200"/>
+    <polyline stroke="red" points="50,200 52,201 52,199 50,200"/><polyline stroke="red" points="50,320 60,320"/>
+    <polyline stroke="red" points="60,320 58,321 58,319 60,320"/><polyline stroke="red" points="50,200 40,200"/>
+    <polyline stroke="red" points="40,200 42,201 42,199 40,200"/><polyline stroke="red" points="40,320 50,320"/>
+    <polyline stroke="red" points="50,320 48,321 48,319 50,320"/><polyline stroke="red" points="40,310 40,320"/>
+    <polyline stroke="red" points="40,320 39,318 41,318 40,320"/><polyline stroke="red" points="40,210 30,210"/>
+    <polyline stroke="red" points="30,210 32,211 32,209 30,210"/><polyline stroke="red" points="40,200 40,210"/>
+    <polyline stroke="red" points="40,210 39,208 41,208 40,210"/><polyline stroke="red" points="30,310 40,310"/>
+    <polyline stroke="red" points="40,310 38,311 38,309 40,310"/><polyline stroke="red" points="30,300 30,310"/>
+    <polyline stroke="red" points="30,310 29,308 31,308 30,310"/><polyline stroke="red" points="30,290 30,300"/>
+    <polyline stroke="red" points="30,300 29,298 31,298 30,300"/><polyline stroke="red" points="30,220 20,220"/>
+    <polyline stroke="red" points="20,220 22,221 22,219 20,220"/><polyline stroke="red" points="30,210 30,220"/>
+    <polyline stroke="red" points="30,220 29,218 31,218 30,220"/><polyline stroke="red" points="20,290 30,290"/>
+    <polyline stroke="red" points="30,290 28,291 28,289 30,290"/><polyline stroke="red" points="20,280 20,290"/>
+    <polyline stroke="red" points="20,290 19,288 21,288 20,290"/><polyline stroke="red" points="20,250 10,250"/>
+    <polyline stroke="red" points="10,250 12,251 12,249 10,250"/><polyline stroke="red" points="20,240 20,250"/>
+    <polyline stroke="red" points="20,250 19,248 21,248 20,250"/><polyline stroke="red" points="20,230 20,240"/>
+    <polyline stroke="red" points="20,240 19,238 21,238 20,240"/><polyline stroke="red" points="20,220 20,230"/>
+    <polyline stroke="red" points="20,230 19,228 21,228 20,230"/><polyline stroke="red" points="10,280 20,280"/>
+    <polyline stroke="red" points="20,280 18,281 18,279 20,280"/><polyline stroke="red" points="10,270 10,280"/>
+    <polyline stroke="red" points="10,280 9,278 11,278 10,280"/><polyline stroke="red" points="10,260 10,270"/>
+    <polyline stroke="red" points="10,270 9,268 11,268 10,270"/><polyline stroke="red" points="10,250 10,260"/>
+    <polyline stroke="red" points="10,260 9,258 11,258 10,260"/><polyline stroke="red" fill="black" points="230,60 230,70 230,80 230,90 240,90 240,100 250,100 250,110 250,120 260,120 260,130 270,130 280,130 280,140 290,140 290,150 300,150 300,160 310,160 310,170 320,170 330,170 340,170 340,160 350,160 360,160 360,150 370,150 370,140 380,140 380,130 390,130 390,120 400,120 400,110 410,110 410,100 420,100 420,90 420,80 420,70 420,60 420,50 420,40 420,30 410,30 410,20 400,20 400,10 390,10 380,10 370,10 360,10 350,10 350,20 340,20 340,30 340,40 330,40 320,40 320,30 310,30 310,20 300,20 300,10 290,10 280,10 270,10 260,10 260,20 250,20 250,30 240,30 240,40 240,50 240,60 230,60 " />
+<polyline stroke="red" fill="black" points="320,360 360,350 420,280 410,210 350,200 330,230 290,200 250,210 230,270 250,300 270,320 320,360 " />
+<path stroke="red" fill="black" d="M575.944640,162.924732 C545,174 540,172 518,154L493,134 L480,120 L466,107 L456,92 C448,80 448,73 459,51L472,24 L490,15 C505,7 509,8 526,22L545,39 L560,24 L575,9 L601,17 L627,24 L635,55 L644,87 L610,125 " />
+</svg>

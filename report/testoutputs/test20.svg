@@ -1,0 +1,932 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg x="10px" y="10px" height="1000px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<rect x="380px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="380px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="380px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="360px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="360px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="340px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="340px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="320px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="320px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="300px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="300px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="280px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="280px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="260px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="260px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="240px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="240px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="220px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="220px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="200px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="200px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="180px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="180px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="160px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="160px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="140px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="140px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="140px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="140px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="140px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="140px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="120px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="120px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="120px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="120px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="120px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="120px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="100px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="100px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="80px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="80px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="60px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="60px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="40px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="40px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="20px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="20px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="20px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="20px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="black"/>
+<rect x="20px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="20px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="380px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="360px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="340px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="320px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="300px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="280px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="260px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="240px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="220px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="200px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="180px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="160px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="140px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="120px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="100px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="80px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="60px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="40px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="20px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<rect x="0px" y="0px" width="20px"
+       height="20px" stroke="blue" fill="white"/>
+<polyline stroke="red" points="400,720 400,700"/>
+    <polyline stroke="red" points="400,700 398,704 402,704 400,700"/><polyline stroke="red" points="400,700 400,680"/>
+    <polyline stroke="red" points="400,680 398,684 402,684 400,680"/><polyline stroke="red" points="400,680 400,660"/>
+    <polyline stroke="red" points="400,660 398,664 402,664 400,660"/><polyline stroke="red" points="400,660 380,660"/>
+    <polyline stroke="red" points="380,660 384,662 384,658 380,660"/><polyline stroke="red" points="400,540 400,520"/>
+    <polyline stroke="red" points="400,520 398,524 402,524 400,520"/><polyline stroke="red" points="400,520 400,500"/>
+    <polyline stroke="red" points="400,500 398,504 402,504 400,500"/><polyline stroke="red" points="400,500 400,480"/>
+    <polyline stroke="red" points="400,480 398,484 402,484 400,480"/><polyline stroke="red" points="400,480 400,460"/>
+    <polyline stroke="red" points="400,460 398,464 402,464 400,460"/><polyline stroke="red" points="400,460 400,440"/>
+    <polyline stroke="red" points="400,440 398,444 402,444 400,440"/><polyline stroke="red" points="400,440 400,420"/>
+    <polyline stroke="red" points="400,420 398,424 402,424 400,420"/><polyline stroke="red" points="400,420 380,420"/>
+    <polyline stroke="red" points="380,420 384,422 384,418 380,420"/><polyline stroke="red" points="380,740 380,720"/>
+    <polyline stroke="red" points="380,720 378,724 382,724 380,720"/><polyline stroke="red" points="380,720 400,720"/>
+    <polyline stroke="red" points="400,720 396,722 396,718 400,720"/><polyline stroke="red" points="380,660 360,660"/>
+    <polyline stroke="red" points="360,660 364,662 364,658 360,660"/><polyline stroke="red" points="380,540 400,540"/>
+    <polyline stroke="red" points="400,540 396,542 396,538 400,540"/><polyline stroke="red" points="380,420 360,420"/>
+    <polyline stroke="red" points="360,420 364,422 364,418 360,420"/><polyline stroke="red" points="360,740 380,740"/>
+    <polyline stroke="red" points="380,740 376,742 376,738 380,740"/><polyline stroke="red" points="360,660 340,660"/>
+    <polyline stroke="red" points="340,660 344,662 344,658 340,660"/><polyline stroke="red" points="360,540 380,540"/>
+    <polyline stroke="red" points="380,540 376,542 376,538 380,540"/><polyline stroke="red" points="360,420 340,420"/>
+    <polyline stroke="red" points="340,420 344,422 344,418 340,420"/><polyline stroke="red" points="340,760 340,740"/>
+    <polyline stroke="red" points="340,740 338,744 342,744 340,740"/><polyline stroke="red" points="340,740 360,740"/>
+    <polyline stroke="red" points="360,740 356,742 356,738 360,740"/><polyline stroke="red" points="340,660 320,660"/>
+    <polyline stroke="red" points="320,660 324,662 324,658 320,660"/><polyline stroke="red" points="340,540 360,540"/>
+    <polyline stroke="red" points="360,540 356,542 356,538 360,540"/><polyline stroke="red" points="340,500 320,500"/>
+    <polyline stroke="red" points="320,500 324,502 324,498 320,500"/><polyline stroke="red" points="340,480 340,500"/>
+    <polyline stroke="red" points="340,500 338,496 342,496 340,500"/><polyline stroke="red" points="340,420 320,420"/>
+    <polyline stroke="red" points="320,420 324,422 324,418 320,420"/><polyline stroke="red" points="320,820 320,800"/>
+    <polyline stroke="red" points="320,800 318,804 322,804 320,800"/><polyline stroke="red" points="320,800 320,780"/>
+    <polyline stroke="red" points="320,780 318,784 322,784 320,780"/><polyline stroke="red" points="320,780 320,760"/>
+    <polyline stroke="red" points="320,760 318,764 322,764 320,760"/><polyline stroke="red" points="320,760 340,760"/>
+    <polyline stroke="red" points="340,760 336,762 336,758 340,760"/><polyline stroke="red" points="320,660 300,660"/>
+    <polyline stroke="red" points="300,660 304,662 304,658 300,660"/><polyline stroke="red" points="320,540 340,540"/>
+    <polyline stroke="red" points="340,540 336,542 336,538 340,540"/><polyline stroke="red" points="320,520 300,520"/>
+    <polyline stroke="red" points="300,520 304,522 304,518 300,520"/><polyline stroke="red" points="320,500 320,520"/>
+    <polyline stroke="red" points="320,520 318,516 322,516 320,520"/><polyline stroke="red" points="320,480 340,480"/>
+    <polyline stroke="red" points="340,480 336,482 336,478 340,480"/><polyline stroke="red" points="320,420 300,420"/>
+    <polyline stroke="red" points="300,420 304,422 304,418 300,420"/><polyline stroke="red" points="300,820 320,820"/>
+    <polyline stroke="red" points="320,820 316,822 316,818 320,820"/><polyline stroke="red" points="300,660 280,660"/>
+    <polyline stroke="red" points="280,660 284,662 284,658 280,660"/><polyline stroke="red" points="300,540 320,540"/>
+    <polyline stroke="red" points="320,540 316,542 316,538 320,540"/><polyline stroke="red" points="300,520 300,540"/>
+    <polyline stroke="red" points="300,540 298,536 302,536 300,540"/><polyline stroke="red" points="300,480 320,480"/>
+    <polyline stroke="red" points="320,480 316,482 316,478 320,480"/><polyline stroke="red" points="300,460 300,480"/>
+    <polyline stroke="red" points="300,480 298,476 302,476 300,480"/><polyline stroke="red" points="300,420 280,420"/>
+    <polyline stroke="red" points="280,420 284,422 284,418 280,420"/><polyline stroke="red" points="280,820 300,820"/>
+    <polyline stroke="red" points="300,820 296,822 296,818 300,820"/><polyline stroke="red" points="280,660 280,640"/>
+    <polyline stroke="red" points="280,640 278,644 282,644 280,640"/><polyline stroke="red" points="280,640 260,640"/>
+    <polyline stroke="red" points="260,640 264,642 264,638 260,640"/><polyline stroke="red" points="280,460 300,460"/>
+    <polyline stroke="red" points="300,460 296,462 296,458 300,460"/><polyline stroke="red" points="280,420 260,420"/>
+    <polyline stroke="red" points="260,420 264,422 264,418 260,420"/><polyline stroke="red" points="260,820 280,820"/>
+    <polyline stroke="red" points="280,820 276,822 276,818 280,820"/><polyline stroke="red" points="260,640 240,640"/>
+    <polyline stroke="red" points="240,640 244,642 244,638 240,640"/><polyline stroke="red" points="260,460 280,460"/>
+    <polyline stroke="red" points="280,460 276,462 276,458 280,460"/><polyline stroke="red" points="260,420 240,420"/>
+    <polyline stroke="red" points="240,420 244,422 244,418 240,420"/><polyline stroke="red" points="240,820 260,820"/>
+    <polyline stroke="red" points="260,820 256,822 256,818 260,820"/><polyline stroke="red" points="240,660 220,660"/>
+    <polyline stroke="red" points="220,660 224,662 224,658 220,660"/><polyline stroke="red" points="240,640 240,660"/>
+    <polyline stroke="red" points="240,660 238,656 242,656 240,660"/><polyline stroke="red" points="240,460 260,460"/>
+    <polyline stroke="red" points="260,460 256,462 256,458 260,460"/><polyline stroke="red" points="240,440 240,460"/>
+    <polyline stroke="red" points="240,460 238,456 242,456 240,460"/><polyline stroke="red" points="240,420 220,420"/>
+    <polyline stroke="red" points="220,420 224,422 224,418 220,420"/><polyline stroke="red" points="220,820 240,820"/>
+    <polyline stroke="red" points="240,820 236,822 236,818 240,820"/><polyline stroke="red" points="220,660 200,660"/>
+    <polyline stroke="red" points="200,660 204,662 204,658 200,660"/><polyline stroke="red" points="220,560 220,540"/>
+    <polyline stroke="red" points="220,540 218,544 222,544 220,540"/><polyline stroke="red" points="220,540 220,520"/>
+    <polyline stroke="red" points="220,520 218,524 222,524 220,520"/><polyline stroke="red" points="220,520 220,500"/>
+    <polyline stroke="red" points="220,500 218,504 222,504 220,500"/><polyline stroke="red" points="220,500 220,480"/>
+    <polyline stroke="red" points="220,480 218,484 222,484 220,480"/><polyline stroke="red" points="220,480 220,460"/>
+    <polyline stroke="red" points="220,460 218,464 222,464 220,460"/><polyline stroke="red" points="220,460 200,460"/>
+    <polyline stroke="red" points="200,460 204,462 204,458 200,460"/><polyline stroke="red" points="220,440 240,440"/>
+    <polyline stroke="red" points="240,440 236,442 236,438 240,440"/><polyline stroke="red" points="220,420 200,420"/>
+    <polyline stroke="red" points="200,420 204,422 204,418 200,420"/><polyline stroke="red" points="200,820 220,820"/>
+    <polyline stroke="red" points="220,820 216,822 216,818 220,820"/><polyline stroke="red" points="200,660 180,660"/>
+    <polyline stroke="red" points="180,660 184,662 184,658 180,660"/><polyline stroke="red" points="200,560 220,560"/>
+    <polyline stroke="red" points="220,560 216,562 216,558 220,560"/><polyline stroke="red" points="200,460 180,460"/>
+    <polyline stroke="red" points="180,460 184,462 184,458 180,460"/><polyline stroke="red" points="200,440 220,440"/>
+    <polyline stroke="red" points="220,440 216,442 216,438 220,440"/><polyline stroke="red" points="200,420 200,440"/>
+    <polyline stroke="red" points="200,440 198,436 202,436 200,440"/><polyline stroke="red" points="180,820 200,820"/>
+    <polyline stroke="red" points="200,820 196,822 196,818 200,820"/><polyline stroke="red" points="180,800 180,820"/>
+    <polyline stroke="red" points="180,820 178,816 182,816 180,820"/><polyline stroke="red" points="180,780 180,800"/>
+    <polyline stroke="red" points="180,800 178,796 182,796 180,800"/><polyline stroke="red" points="180,760 180,780"/>
+    <polyline stroke="red" points="180,780 178,776 182,776 180,780"/><polyline stroke="red" points="180,740 180,760"/>
+    <polyline stroke="red" points="180,760 178,756 182,756 180,760"/><polyline stroke="red" points="180,720 180,740"/>
+    <polyline stroke="red" points="180,740 178,736 182,736 180,740"/><polyline stroke="red" points="180,660 160,660"/>
+    <polyline stroke="red" points="160,660 164,662 164,658 160,660"/><polyline stroke="red" points="180,580 180,560"/>
+    <polyline stroke="red" points="180,560 178,564 182,564 180,560"/><polyline stroke="red" points="180,560 200,560"/>
+    <polyline stroke="red" points="200,560 196,562 196,558 200,560"/><polyline stroke="red" points="180,460 160,460"/>
+    <polyline stroke="red" points="160,460 164,462 164,458 160,460"/><polyline stroke="red" points="160,720 180,720"/>
+    <polyline stroke="red" points="180,720 176,722 176,718 180,720"/><polyline stroke="red" points="160,700 160,720"/>
+    <polyline stroke="red" points="160,720 158,716 162,716 160,720"/><polyline stroke="red" points="160,680 160,700"/>
+    <polyline stroke="red" points="160,700 158,696 162,696 160,700"/><polyline stroke="red" points="160,660 160,680"/>
+    <polyline stroke="red" points="160,680 158,676 162,676 160,680"/><polyline stroke="red" points="160,580 180,580"/>
+    <polyline stroke="red" points="180,580 176,582 176,578 180,580"/><polyline stroke="red" points="160,480 140,480"/>
+    <polyline stroke="red" points="140,480 144,482 144,478 140,480"/><polyline stroke="red" points="160,460 160,480"/>
+    <polyline stroke="red" points="160,480 158,476 162,476 160,480"/><polyline stroke="red" points="140,580 160,580"/>
+    <polyline stroke="red" points="160,580 156,582 156,578 160,580"/><polyline stroke="red" points="140,480 120,480"/>
+    <polyline stroke="red" points="120,480 124,482 124,478 120,480"/><polyline stroke="red" points="120,600 120,580"/>
+    <polyline stroke="red" points="120,580 118,584 122,584 120,580"/><polyline stroke="red" points="120,580 140,580"/>
+    <polyline stroke="red" points="140,580 136,582 136,578 140,580"/><polyline stroke="red" points="120,480 100,480"/>
+    <polyline stroke="red" points="100,480 104,482 104,478 100,480"/><polyline stroke="red" points="100,620 100,600"/>
+    <polyline stroke="red" points="100,600 98,604 102,604 100,600"/><polyline stroke="red" points="100,600 120,600"/>
+    <polyline stroke="red" points="120,600 116,602 116,598 120,600"/><polyline stroke="red" points="100,480 80,480"/>
+    <polyline stroke="red" points="80,480 84,482 84,478 80,480"/><polyline stroke="red" points="80,640 80,620"/>
+    <polyline stroke="red" points="80,620 78,624 82,624 80,620"/><polyline stroke="red" points="80,620 100,620"/>
+    <polyline stroke="red" points="100,620 96,622 96,618 100,620"/><polyline stroke="red" points="80,480 60,480"/>
+    <polyline stroke="red" points="60,480 64,482 64,478 60,480"/><polyline stroke="red" points="60,680 60,660"/>
+    <polyline stroke="red" points="60,660 58,664 62,664 60,660"/><polyline stroke="red" points="60,660 60,640"/>
+    <polyline stroke="red" points="60,640 58,644 62,644 60,640"/><polyline stroke="red" points="60,640 80,640"/>
+    <polyline stroke="red" points="80,640 76,642 76,638 80,640"/><polyline stroke="red" points="60,480 40,480"/>
+    <polyline stroke="red" points="40,480 44,482 44,478 40,480"/><polyline stroke="red" points="40,680 60,680"/>
+    <polyline stroke="red" points="60,680 56,682 56,678 60,680"/><polyline stroke="red" points="40,580 20,580"/>
+    <polyline stroke="red" points="20,580 24,582 24,578 20,580"/><polyline stroke="red" points="40,560 40,580"/>
+    <polyline stroke="red" points="40,580 38,576 42,576 40,580"/><polyline stroke="red" points="40,540 40,560"/>
+    <polyline stroke="red" points="40,560 38,556 42,556 40,560"/><polyline stroke="red" points="40,520 40,540"/>
+    <polyline stroke="red" points="40,540 38,536 42,536 40,540"/><polyline stroke="red" points="40,500 40,520"/>
+    <polyline stroke="red" points="40,520 38,516 42,516 40,520"/><polyline stroke="red" points="40,480 40,500"/>
+    <polyline stroke="red" points="40,500 38,496 42,496 40,500"/><polyline stroke="red" points="20,680 40,680"/>
+    <polyline stroke="red" points="40,680 36,682 36,678 40,680"/><polyline stroke="red" points="20,660 20,680"/>
+    <polyline stroke="red" points="20,680 18,676 22,676 20,680"/><polyline stroke="red" points="20,640 20,660"/>
+    <polyline stroke="red" points="20,660 18,656 22,656 20,660"/><polyline stroke="red" points="20,620 20,640"/>
+    <polyline stroke="red" points="20,640 18,636 22,636 20,640"/><polyline stroke="red" points="20,600 20,620"/>
+    <polyline stroke="red" points="20,620 18,616 22,616 20,620"/><polyline stroke="red" points="20,580 20,600"/>
+    <polyline stroke="red" points="20,600 18,596 22,596 20,600"/><polyline stroke="red" fill="black" points="440,160 440,180 440,200 440,220 440,240 440,260 460,260 480,260 480,240 480,220 500,220 500,200 520,200 520,180 540,180 540,160 560,160 580,160 600,160 600,140 620,140 640,140 640,120 640,100 640,80 640,60 640,40 620,40 600,40 580,40 580,60 560,60 540,60 520,60 500,60 480,60 460,60 460,80 460,100 460,120 460,140 460,160 440,160 " />
+<polyline stroke="red" fill="black" points="580,240 580,260 580,280 580,300 600,300 600,320 600,340 600,360 600,380 600,400 620,400 640,400 660,400 680,400 700,400 720,400 740,400 740,380 740,360 740,340 760,340 760,320 780,320 800,320 800,300 820,300 820,280 820,260 820,240 800,240 780,240 760,240 740,240 720,240 700,240 700,220 680,220 660,220 660,240 640,240 620,240 600,240 580,240 " />
+<polyline stroke="red" fill="black" points="620,0 620,20 640,20 660,20 660,40 680,40 700,40 720,40 720,60 740,60 760,60 760,80 740,80 740,100 720,100 720,120 740,120 760,120 780,120 800,120 820,120 820,100 820,80 820,60 820,40 820,20 820,0 800,0 780,0 760,0 740,0 720,0 700,0 680,0 660,0 640,0 620,0 " />
+<polyline stroke="red" fill="black" points="440,680 480,660 540,580 640,560 640,460 460,480 440,680 " />
+<polyline stroke="red" fill="black" points="600,820 740,820 740,760 820,720 820,660 580,660 600,820 " />
+<polyline stroke="red" fill="black" points="620,440 760,480 720,540 820,540 820,420 620,440 " />
+</svg>

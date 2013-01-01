@@ -1,0 +1,105 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg x="10px" y="10px" height="800px" width="750px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<rect x="150px" y="300px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="150px" y="250px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="150px" y="200px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="150px" y="150px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="150px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="150px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="150px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="100px" y="300px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="100px" y="250px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="200px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="100px" y="150px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="100px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="100px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="300px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="250px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="200px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="150px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="50px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="0px" y="300px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="0px" y="250px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="200px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="0px" y="150px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="0px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<polyline stroke="red" points="200,750 200,700"/>
+    <polyline stroke="red" points="200,700 195,710 205,710 200,700"/><polyline stroke="red" points="200,700 200,650"/>
+    <polyline stroke="red" points="200,650 195,660 205,660 200,650"/><polyline stroke="red" points="200,650 200,600"/>
+    <polyline stroke="red" points="200,600 195,610 205,610 200,600"/><polyline stroke="red" points="200,600 200,550"/>
+    <polyline stroke="red" points="200,550 195,560 205,560 200,550"/><polyline stroke="red" points="200,550 200,500"/>
+    <polyline stroke="red" points="200,500 195,510 205,510 200,500"/><polyline stroke="red" points="200,500 150,500"/>
+    <polyline stroke="red" points="150,500 160,505 160,495 150,500"/><polyline stroke="red" points="150,750 200,750"/>
+    <polyline stroke="red" points="200,750 190,755 190,745 200,750"/><polyline stroke="red" points="150,700 150,750"/>
+    <polyline stroke="red" points="150,750 145,740 155,740 150,750"/><polyline stroke="red" points="150,650 100,650"/>
+    <polyline stroke="red" points="100,650 110,655 110,645 100,650"/><polyline stroke="red" points="150,600 150,650"/>
+    <polyline stroke="red" points="150,650 145,640 155,640 150,650"/><polyline stroke="red" points="150,550 150,600"/>
+    <polyline stroke="red" points="150,600 145,590 155,590 150,600"/><polyline stroke="red" points="150,500 150,550"/>
+    <polyline stroke="red" points="150,550 145,540 155,540 150,550"/><polyline stroke="red" points="150,500 150,450"/>
+    <polyline stroke="red" points="150,450 145,460 155,460 150,450"/><polyline stroke="red" points="150,450 150,400"/>
+    <polyline stroke="red" points="150,400 145,410 155,410 150,400"/><polyline stroke="red" points="150,400 100,400"/>
+    <polyline stroke="red" points="100,400 110,405 110,395 100,400"/><polyline stroke="red" points="100,750 100,700"/>
+    <polyline stroke="red" points="100,700 95,710 105,710 100,700"/><polyline stroke="red" points="100,700 150,700"/>
+    <polyline stroke="red" points="150,700 140,705 140,695 150,700"/><polyline stroke="red" points="100,650 100,600"/>
+    <polyline stroke="red" points="100,600 95,610 105,610 100,600"/><polyline stroke="red" points="100,600 100,550"/>
+    <polyline stroke="red" points="100,550 95,560 105,560 100,550"/><polyline stroke="red" points="100,550 100,500"/>
+    <polyline stroke="red" points="100,500 95,510 105,510 100,500"/><polyline stroke="red" points="100,500 150,500"/>
+    <polyline stroke="red" points="150,500 140,505 140,495 150,500"/><polyline stroke="red" points="100,500 50,500"/>
+    <polyline stroke="red" points="50,500 60,505 60,495 50,500"/><polyline stroke="red" points="100,450 100,500"/>
+    <polyline stroke="red" points="100,500 95,490 105,490 100,500"/><polyline stroke="red" points="100,400 100,450"/>
+    <polyline stroke="red" points="100,450 95,440 105,440 100,450"/><polyline stroke="red" points="50,750 100,750"/>
+    <polyline stroke="red" points="100,750 90,755 90,745 100,750"/><polyline stroke="red" points="50,700 50,750"/>
+    <polyline stroke="red" points="50,750 45,740 55,740 50,750"/><polyline stroke="red" points="50,650 0,650"/>
+    <polyline stroke="red" points="0,650 10,655 10,645 0,650"/><polyline stroke="red" points="50,600 50,650"/>
+    <polyline stroke="red" points="50,650 45,640 55,640 50,650"/><polyline stroke="red" points="50,550 50,600"/>
+    <polyline stroke="red" points="50,600 45,590 55,590 50,600"/><polyline stroke="red" points="50,500 50,450"/>
+    <polyline stroke="red" points="50,450 45,460 55,460 50,450"/><polyline stroke="red" points="50,450 50,400"/>
+    <polyline stroke="red" points="50,400 45,410 55,410 50,400"/><polyline stroke="red" points="50,400 0,400"/>
+    <polyline stroke="red" points="0,400 10,405 10,395 0,400"/><polyline stroke="red" points="0,700 50,700"/>
+    <polyline stroke="red" points="50,700 40,705 40,695 50,700"/><polyline stroke="red" points="0,650 0,700"/>
+    <polyline stroke="red" points="0,700 -5,690 5,690 0,700"/><polyline stroke="red" points="0,550 50,550"/>
+    <polyline stroke="red" points="50,550 40,555 40,545 50,550"/><polyline stroke="red" points="0,500 0,550"/>
+    <polyline stroke="red" points="0,550 -5,540 5,540 0,550"/><polyline stroke="red" points="0,450 0,500"/>
+    <polyline stroke="red" points="0,500 -5,490 5,490 0,500"/><polyline stroke="red" points="0,400 0,450"/>
+    <polyline stroke="red" points="0,450 -5,440 5,440 0,450"/><polyline stroke="red" fill="black" points="250,0 250,50 250,100 250,150 300,150 300,200 300,250 250,250 250,300 300,300 300,350 350,350 350,300 400,300 400,350 450,350 450,300 450,250 450,200 450,150 450,100 400,100 400,50 400,0 350,0 350,50 350,100 300,100 300,50 300,0 250,0 " />
+<polyline stroke="red" fill="white" points="350,100 400,100 400,150 400,200 400,250 350,250 350,200 350,150 350,100 " />
+<polyline stroke="red" fill="black" points="400,400 350,500 250,400 300,750 450,700 400,400 " />
+<polyline stroke="red" fill="white" points="400,500 400,650 400,500 " />
+<path stroke="red" fill="black" d="M583,81 C612,33 649,96 660,142L694,275 L629,302 C580,323 559,291 542,171L520,13 L551,47 " />
+</svg>

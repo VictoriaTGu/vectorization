@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg x="10px" y="10px"  version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<rect x="100px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="50px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<polyline stroke="red" points="150,350 150,300" />
+       <circle stroke="red" fill="red" cx="150" cy="300" r="3" />
+<polyline stroke="red" points="150,300 150,250" />
+       <circle stroke="red" fill="red" cx="150" cy="250" r="3" />
+<polyline stroke="red" points="150,250 150,200" />
+       <circle stroke="red" fill="red" cx="150" cy="200" r="3" />
+<polyline stroke="red" points="150,200 100,200" />
+       <circle stroke="red" fill="red" cx="100" cy="200" r="3" />
+<polyline stroke="red" points="100,350 150,350" />
+       <circle stroke="red" fill="red" cx="150" cy="350" r="3" />
+<polyline stroke="red" points="100,300 50,300" />
+       <circle stroke="red" fill="red" cx="50" cy="300" r="3" />
+<polyline stroke="red" points="100,250 100,300" />
+       <circle stroke="red" fill="red" cx="100" cy="300" r="3" />
+<polyline stroke="red" points="100,200 50,200" />
+       <circle stroke="red" fill="red" cx="50" cy="200" r="3" />
+<polyline stroke="red" points="50,350 100,350" />
+       <circle stroke="red" fill="red" cx="100" cy="350" r="3" />
+<polyline stroke="red" points="50,300 50,250" />
+       <circle stroke="red" fill="red" cx="50" cy="250" r="3" />
+<polyline stroke="red" points="50,250 100,250" />
+       <circle stroke="red" fill="red" cx="100" cy="250" r="3" />
+<polyline stroke="red" points="50,200 0,200" />
+       <circle stroke="red" fill="red" cx="0" cy="200" r="3" />
+<polyline stroke="red" points="0,350 50,350" />
+       <circle stroke="red" fill="red" cx="50" cy="350" r="3" />
+<polyline stroke="red" points="0,300 0,350" />
+       <circle stroke="red" fill="red" cx="0" cy="350" r="3" />
+<polyline stroke="red" points="0,250 0,300" />
+       <circle stroke="red" fill="red" cx="0" cy="300" r="3" />
+<polyline stroke="red" points="0,200 0,250" />
+       <circle stroke="red" fill="red" cx="0" cy="250" r="3" />
+       
+<polyline stroke="red" fill="black" points="400,0 400,50 400,100 400,150 450,150 500,150 550,150 550,100 550,50 550,0 500,0 450,0 400,0 " />
+<polyline stroke="red" fill="white" points="450,50 500,50 500,100 450,100 450,50 " />
+
+
+<polyline stroke="red" fill="black" points="800,0 800,150 950,150 950,0 800,0 " />
+<polyline stroke="red" fill="white" points="850,50 900,50 850,50 " />
+</svg>

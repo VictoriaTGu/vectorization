@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg x="10px" y="10px" height="400px" width="600px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<rect x="100px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="100px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="50px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="white"/>
+<rect x="50px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="100px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="50px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<rect x="0px" y="0px" width="50px"
+       height="50px" stroke="blue" fill="black"/>
+<polyline stroke="red" points="150,350 150,300"/>
+    <polyline stroke="red" points="150,300 145,310 155,310 150,300"/><polyline stroke="red" points="150,300 150,250"/>
+    <polyline stroke="red" points="150,250 145,260 155,260 150,250"/><polyline stroke="red" points="150,250 150,200"/>
+    <polyline stroke="red" points="150,200 145,210 155,210 150,200"/><polyline stroke="red" points="150,200 100,200"/>
+    <polyline stroke="red" points="100,200 110,205 110,195 100,200"/><polyline stroke="red" points="100,350 150,350"/>
+    <polyline stroke="red" points="150,350 140,355 140,345 150,350"/><polyline stroke="red" points="100,300 50,300"/>
+    <polyline stroke="red" points="50,300 60,305 60,295 50,300"/><polyline stroke="red" points="100,250 100,300"/>
+    <polyline stroke="red" points="100,300 95,290 105,290 100,300"/><polyline stroke="red" points="100,200 50,200"/>
+    <polyline stroke="red" points="50,200 60,205 60,195 50,200"/><polyline stroke="red" points="50,350 100,350"/>
+    <polyline stroke="red" points="100,350 90,355 90,345 100,350"/><polyline stroke="red" points="50,300 50,250"/>
+    <polyline stroke="red" points="50,250 45,260 55,260 50,250"/><polyline stroke="red" points="50,250 100,250"/>
+    <polyline stroke="red" points="100,250 90,255 90,245 100,250"/><polyline stroke="red" points="50,200 0,200"/>
+    <polyline stroke="red" points="0,200 10,205 10,195 0,200"/><polyline stroke="red" points="0,350 50,350"/>
+    <polyline stroke="red" points="50,350 40,355 40,345 50,350"/><polyline stroke="red" points="0,300 0,350"/>
+    <polyline stroke="red" points="0,350 -5,340 5,340 0,350"/><polyline stroke="red" points="0,250 0,300"/>
+    <polyline stroke="red" points="0,300 -5,290 5,290 0,300"/><polyline stroke="red" points="0,200 0,250"/>
+    <polyline stroke="red" points="0,250 -5,240 5,240 0,250"/><polyline stroke="red" fill="black" points="200,0 200,50 200,100 200,150 250,150 300,150 350,150 350,100 350,50 350,0 300,0 250,0 200,0 " />
+<polyline stroke="red" fill="white" points="250,50 300,50 300,100 250,100 250,50 " />
+<polyline stroke="red" fill="black" points="200,350 350,350 350,200 200,200 200,350 " />
+<polyline stroke="red" fill="white" points="300,250 300,300 300,250 " />
+<path stroke="red" fill="black" d="M532.322330,132.322330 C408,149 401,142 409,84L418,18 L484,9 C542,1 549,8 541,66" />
+</svg>
